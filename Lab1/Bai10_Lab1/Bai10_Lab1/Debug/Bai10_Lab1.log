@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Bai10_Lab1.cpp
+d:\documents\đồ họa máy tính\thực hành\lab1\bai10_lab1\bai10_lab1\bai10_lab1.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Bai10_Lab1.vcxproj -> D:\documents\Đồ họa máy tính\Thực hành\Lab1\Bai10_Lab1\Debug\Bai10_Lab1.exe

@@ -1,0 +1,5 @@
+﻿  Bai2_Lab3.cpp
+  GAME.cpp
+d:\documents\đồ họa máy tính\thực hành\lap3\bai2_lab3\bai2_lab3\game.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Bai2_Lab3.vcxproj -> D:\documents\Đồ họa máy tính\Thực hành\Lap3\Bai2_Lab3\/Output/Bai2_Lab3.exe

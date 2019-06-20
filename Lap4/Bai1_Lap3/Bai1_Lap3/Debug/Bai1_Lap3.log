@@ -1,0 +1,7 @@
+﻿  Bai1_Lap3.cpp
+d:\lap3\bai1_lap3\bai1_lap3\bai1_lap3.cpp(262): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\lap3\bai1_lap3\bai1_lap3\bai1_lap3.cpp(263): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\lap3\bai1_lap3\bai1_lap3\bai1_lap3.cpp(264): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\lap3\bai1_lap3\bai1_lap3\bai1_lap3.cpp(265): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Bai1_Lap3.vcxproj -> D:\Lap3\Bai1_Lap3\Debug\Bai1_Lap3.exe
+  Bai1_Lap3.vcxproj -> D:\Lap3\Bai1_Lap3\Debug\Bai1_Lap3.pdb (Full PDB)

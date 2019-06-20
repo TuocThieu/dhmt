@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  B5_4.cpp
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(94): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(95): warning C4305: '-=': truncation from 'double' to 'float'
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(96): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(97): warning C4305: '-=': truncation from 'double' to 'float'
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(98): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\đồ họa máy tính\thực hành\lab5\b5_4\b5_4\b5_4.cpp(99): warning C4305: '-=': truncation from 'double' to 'float'
+  SHADER.cpp
+  Generating Code...
+  B5_4.vcxproj -> D:\documents\Đồ họa máy tính\Thực hành\Lab5\B5_4\Debug\B5_4.exe

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Bai13_Lab1.cpp
+d:\documents\đồ họa máy tính\thực hành\lab1\bai13_lab1\bai13_lab1\bai13_lab1.cpp(32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\documents\đồ họa máy tính\thực hành\lab1\bai13_lab1\bai13_lab1\bai13_lab1.cpp(34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Bai13_Lab1.vcxproj -> D:\documents\Đồ họa máy tính\Thực hành\Lab1\Bai13_Lab1\Debug\Bai13_Lab1.exe

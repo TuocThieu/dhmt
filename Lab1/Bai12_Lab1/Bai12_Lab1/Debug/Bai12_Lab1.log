@@ -1,0 +1,3 @@
+﻿  Bai12_Lab1.cpp
+d:\documents\đồ họa máy tính\thực hành\lab1\bai12_lab1\bai12_lab1\bai12_lab1.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+LINK : fatal error LNK1168: cannot open D:\documents\Đồ họa máy tính\Thực hành\Lab1\Bai12_Lab1\Debug\Bai12_Lab1.exe for writing
